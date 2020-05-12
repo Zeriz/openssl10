@@ -1,4 +1,4 @@
-# openssl10
+# OpenSSL 1.0.2u
 Brew formula to install openssl 1.0.2u
 
 # Related issue
